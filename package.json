@@ -4,7 +4,8 @@
   "description": "webauth",
   "main": "index.js",
   "scripts": {
-    "server": "nodemon index.js"
+    "server": "nodemon",
+    "start": "node index.js"
   },
   "repository": "https://github.com/Nathan-Culver/webauth-i-challenge.git",
   "author": "Nathan <s6nculve@gmail.com>",

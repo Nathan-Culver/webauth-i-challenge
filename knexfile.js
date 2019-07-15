@@ -1,9 +1,8 @@
 module.exports = {
-
   development: {
     client: 'sqlite3',
     connection: {
-      filename: './data/todo.sqlite3'
+      filename: './database/users.sqlite3'
     },
     useNullAsDefault: true
   }
